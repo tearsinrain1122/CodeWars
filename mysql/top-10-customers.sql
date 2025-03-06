@@ -8,8 +8,8 @@
 -- email [varchar]
 -- payments_count [int]
 -- total_amount [float]
--- and has the following requirements:
 
+-- and has the following requirements:
 -- only returns the 10 top customers, ordered by total amount spent from highest to lowest
 
 -- Solution
